@@ -1,0 +1,27 @@
+.wrap{
+	margin-left: 200px;
+}
+label{
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 250px;
+    text-align: right;
+    padding-bottom: 10px;
+}
+input {
+  display: inline-block;
+  float: left;
+
+}
+#btn{
+	margin-left: 80px;
+}
+legend{
+	margin-left: 200px;
+	padding-bottom: 10px;
+}
+#wrap-2{
+	padding: 10px;
+	margin-left: 350px;
+}
